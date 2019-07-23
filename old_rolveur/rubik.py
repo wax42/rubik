@@ -1468,8 +1468,8 @@ dico_image["image_menu.gif"] = photo_menu
 fenetre.configure(bg = liste_couleur_dessin["Fenetre"])
 fenetre.minsize(width_fenetre,height_fenetre)#taille minimum de la fenetre
 # fenetre_menu()# ne marche pas
-# page_dvlt()
+page_dvlt()
 # initialisation_rubikcube()
-melanger()#Affichage de la fenetre du menu
+# melanger()#Affichage de la fenetre du menu
 fenetre.mainloop()#Boucle Principale
 fenetre.destroy
