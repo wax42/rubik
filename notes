@@ -1,24 +1,20 @@
 INTERFACE
 
-
 https://github.com/godlikemouse/jquery.cube.js
 
 
 
 ALGO
 
+1 -- Methode humaine
+  -- Opti ??
 
+Web 
+    Server :
+        tornado socket - pour serveur [ou socket.io ?? Plus pertinent]
+    Front :
+        Three.js pour 3d en JS
 
-1 Methode humaine
-
-
-
-
-2 ----
-
-
-
-
-
-
-
+Priorite :
+    - Structure de donnees pour le rubik
+    - translation des mouvements pour le rubik
